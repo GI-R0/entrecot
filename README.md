@@ -21,6 +21,5 @@ Una aplicación educativa hecha con **React + TailwindCSS** que permite buscar P
 - `useTheme` → controla el modo oscuro/claro.
 - `usePokemon` → obtiene Pokémon desde la API.
 
-## 📸 Capturas
-*(aquí puedes añadir screenshots de la app)*
+
 
