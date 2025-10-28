@@ -4,7 +4,7 @@ Proyecto educativo realizado con **React** y **TailwindCSS** para explorar Poké
 
 ---
 
-## 📚 Descripción
+##  Descripción
 
 PokeSearch permite:
 
@@ -16,7 +16,7 @@ PokeSearch permite:
 
 Este proyecto demuestra el uso de **React**, **React Router**, **Hooks personalizados**, **Context API**, **formularios con react-hook-form** y **fetch a APIs externas  
 
-## 💻 Instalación
+##  Instalación
 
 1. Clonar el repositorio:
 
@@ -35,14 +35,14 @@ Copiar código
 npm run dev
 El proyecto se abrirá en http://localhost:5173.
 
-📂 Scripts útiles
+ Scripts útiles
 npm run dev → Inicia el servidor de desarrollo.
 
 npm run build → Construye la versión de producción.
 
 npm run lint → Ejecuta ESLint para revisar el código.
 
-📖 Uso
+ Uso
 Inicio: Lista de Pokémon con paginación “Cargar más”.
 
 Buscar: Ingreso de nombre o ID, muestra resultados dinámicos.
@@ -51,8 +51,6 @@ Acerca: Información sobre el proyecto.
 
 Tema: Botón para alternar tema claro/oscuro.
 
-📌 Autor
-GI-R0 (GitHub: https://github.com/GI-R0)
 
 
 
